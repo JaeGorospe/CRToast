@@ -41,7 +41,7 @@ static BOOL CRHorizontalSizeClassRegular() {
 
 #pragma mark - Variables
 /// Default height of the status bar + 1 pixel
-static CGFloat const CRNavigationBarDefaultHeight = 45.0f;
+static CGFloat const CRNavigationBarDefaultHeight = 90.0f;
 /// Height of the status bar in landscape orientation/compact size class + 1 pixel
 static CGFloat const CRNavigationBarDefaultHeightiPhoneLandscape = 33.0f;
 
